@@ -4,4 +4,5 @@ organization, and execution of events , buying and selling items related to even
 It offers features such as event scheduling, attendee registration, venue management, connecting
 vendors and clients and gives real-time updates.
 
+![Screenshot (154)](https://github.com/areebquadri142/Event-Hub/assets/139630610/28f45e94-a298-4ab2-ba64-45e774dfcdb8)
 ![Screenshot (136)](https://github.com/areebquadri142/Event-Hub/assets/139630610/f92070c7-2ec7-46b0-b45b-657a7e874f95)
