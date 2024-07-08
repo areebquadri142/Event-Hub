@@ -11,6 +11,7 @@ vendors and clients and gives real-time updates.
 ![Screenshot (178)](https://github.com/areebquadri142/Event-Hub/assets/139630610/116c38c1-4213-4c4c-95f7-c4304cbed664)
 ![Screenshot (182)](https://github.com/areebquadri142/Event-Hub/assets/139630610/8a6bf5a9-f4a9-437d-8cdf-ee6c136cf474)
 ![Screenshot (163)](https://github.com/areebquadri142/Event-Hub/assets/139630610/1bb9f7e6-39bc-47b9-81a0-c1358b46be2e)
+![Screenshot (158)](https://github.com/areebquadri142/Event-Hub/assets/139630610/614299df-e4af-4dea-902d-f134f8b7b5e1)
 ![Screenshot (183)](https://github.com/areebquadri142/Event-Hub/assets/139630610/8a3cbb55-2848-4625-a82f-a7dc45df36fe)
 ![Screenshot (184)](https://github.com/areebquadri142/Event-Hub/assets/139630610/3499be94-f6a6-4d14-ac80-35aaebfc572b)
 ![Screenshot (185)](https://github.com/areebquadri142/Event-Hub/assets/139630610/cfb9f03b-3dc1-4f28-a64b-b47aa62212b1)
